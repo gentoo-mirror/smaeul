@@ -1,0 +1,18 @@
+app-text/zola 0.12.2: a fast static site generator in a single binary with everything built-in
+dev-ada/gprbuild 20190517: Multi-Language Management
+dev-java/icedtea 3.12.0: A harness to build OpenJDK using Free Software build tools and dependencies
+dev-lang/rust 1.46.0: Systems programming language from Mozilla
+dev-lang/zig 9999: Robust, optimal, and clear programming language
+dev-util/android-tools 9999: Android platform tools (adb, fastboot, and mkbootimg)
+net-misc/sntpd 9999: A small SNTP client for UNIX systems, implementing RFC 1305 and RFC 4330
+sys-apps/linux-misc-apps 4.20 5.4: Misc tools bundled with kernel sources
+sys-kernel/linux 5.6.5: Linux kernel (binary package)
+sys-libs/gcompat 9999: glibc and LSB Compatibility Layer for musl libc
+sys-libs/libssp_nonshared 0: GCC libssp_nonshared.a, in LIBDIR, for bootstrapping
+sys-power/brightnessctl 0.2.1: A utility to set backlight/led brightness via /sys classes
+virtual/daemontools 0: Virtual for daemontools
+virtual/logger 0-r1: Virtual for system loggers
+virtual/ucspi-tcp 0: Virtual for ucspi-tcp
+www-client/chromium 85.0.4183.83: Open-source version of Google Chrome web browser
+x11-misc/i3status-mpd 9999: generates a status bar for dzen2, xmobar or similar
+x11-misc/j4-dmenu-desktop 9999: Faster replacement for i3-dmenu-desktop.
