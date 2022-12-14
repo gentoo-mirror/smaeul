@@ -7,5 +7,4 @@ sys-power/brightnessctl 0.2.1: A utility to set backlight/led brightness via /sy
 virtual/daemontools 0: Virtual for daemontools
 virtual/logger 0-r1: Virtual for system loggers
 virtual/ucspi-tcp 0: Virtual for ucspi-tcp
-www-client/chromium 85.0.4183.83: Open-source version of Google Chrome web browser
 x11-misc/i3status-mpd 9999: generates a status bar for dzen2, xmobar or similar
