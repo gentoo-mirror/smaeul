@@ -1,6 +1,5 @@
 app-text/zola 0.13.0: a fast static site generator in a single binary with everything built-in
 dev-ada/gprbuild 20190517: Multi-Language Management
-dev-lang/rust 1.48.0 1.49.0 1.50.0 1.58.1 1.59.0: Systems programming language from Mozilla
 dev-util/android-tools 9999: Android platform tools (adb, fastboot, and mkbootimg)
 sys-libs/gcompat 9999: glibc and LSB Compatibility Layer for musl libc
 sys-power/brightnessctl 0.2.1: A utility to set backlight/led brightness via /sys classes
