@@ -2,24 +2,4 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-dev-lang/rust:cargo - Install cargo component
-dev-lang/rust:clippy - Install clippy component
-dev-lang/rust:rls - Install rls component
-dev-lang/rust:rustfmt - Install rustfmt component
-dev-lang/rust:system-llvm - Use the system LLVM install
-dev-lang/rust:wasm - Build support for the wasm32-unknown-unknown target
-www-client/chromium:atk - Enable support for the GTK+/GNOME Accessibility Toolkit
-www-client/chromium:closure-compile - Enable closure type-checking for Chrome's web technology-based UI. Requires Java.
-www-client/chromium:component-build - Split build into more shared libraries to speed up linking. Mostly intended for debugging and development, NOT RECOMMENDED for general use.
-www-client/chromium:dbus - Enable support for DBus (needed for ATK, Bluetooth, global menu bar, KWallet, and "show in folder")
-www-client/chromium:glib - Enable support for Glib (needed for default browser support, web shortcuts, and automatic locale detection)
-www-client/chromium:hangouts - Enable support for Google Hangouts features such as screen sharing
-www-client/chromium:pic - Disable optimized assembly code that is not PIC friendly
-www-client/chromium:proprietary-codecs - Enable proprietary codecs like H.264, MP3
-www-client/chromium:suid - Build the SUID sandbox, which is only needed on CONFIG_USER_NS=n kernels
-www-client/chromium:system-ffmpeg - Use system ffmpeg instead of the bundled one
-www-client/chromium:system-icu - Use system icu instead of the bundled one
-www-client/chromium:system-libvpx - Use system libvpx instead of the bundled one
-www-client/chromium:tcmalloc - Use bundled tcmalloc instead of system malloc
-www-client/chromium:widevine - Unsupported closed-source DRM capability (required by Netflix VOD)
 x11-misc/i3status-mpd:filecaps - Linux capabilities library is required for i3status to be able to read net bandwith
