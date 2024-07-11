@@ -1,5 +1,3 @@
-dev-util/android-tools 9999: Android platform tools (adb, fastboot, and mkbootimg)
-sys-libs/gcompat 9999: glibc and LSB Compatibility Layer for musl libc
 sys-power/brightnessctl 0.2.1: A utility to set backlight/led brightness via /sys classes
 virtual/daemontools 0: Virtual for daemontools
 virtual/logger 0-r1: Virtual for system loggers
