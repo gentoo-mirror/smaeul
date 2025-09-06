@@ -21,7 +21,7 @@ RDEPEND="
 	dev-libs/libnl:3
 	media-libs/alsa-lib
 	media-libs/libmpdclient
-	pulseaudio? ( || ( media-sound/pulseaudio media-sound/apulse[sdk] ) )
+	pulseaudio? ( || ( media-libs/libpulse media-sound/apulse[sdk] ) )
 "
 
 DEPEND="
